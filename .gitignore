@@ -1,0 +1,4 @@
+# Ignore XAMPP config files
+*.log
+*.tmp
+/vendor/
