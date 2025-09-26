@@ -1,9 +1,7 @@
 # My First Project
-
 A simple PHP project built with XAMPP to display dynamic server information and a personalized greeting.
 
 ## Table of Contents
-
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies](#technologies)
@@ -13,30 +11,25 @@ A simple PHP project built with XAMPP to display dynamic server information and 
 - [License](#license)
 
 ## Project Overview
-
 This project is a basic PHP application created as a learning exercise using XAMPP.  
 When accessed in a browser, it dynamically shows:
 
-- Your name
+- My name
 - Current server time
 - Status of the application (running)
-
 It's a perfect starter project for understanding PHP basics and server-side rendering.
 
 ## Features
-
 - Dynamic greeting with your name
 - Displays current server time
 - Confirms that the application is running
 
 ## Technologies
-
 - PHP
 - XAMPP (Apache + MySQL)
 - HTML
 
 ## Setup & Installation
-
 Follow these steps to run the project locally:
 
 1. **Install XAMPP** from [Apache Friends](https://www.apachefriends.org/index.html) if not already installed.
