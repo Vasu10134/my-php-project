@@ -1,6 +1,6 @@
 # My First Project
 A simple PHP project built with XAMPP to display dynamic server information and a personalized greeting.
-
+  
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
