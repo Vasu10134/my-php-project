@@ -25,7 +25,7 @@
 <body>
   <h1>Hello from PHP!</h1>
   <?php
-    // Set timezone to Indian Standard Time
+    // Set timezone to IST
     date_default_timezone_set("Asia/Kolkata");
 
     $name = "Vasu";
